@@ -21,8 +21,8 @@ div#main {
 }
 
 img {
-    width: 576px;
-    height: 324px;
+    width: 324px;
+    height: 576px;
     object-fit: contain;
     margin-bottom: 20px;
 }
